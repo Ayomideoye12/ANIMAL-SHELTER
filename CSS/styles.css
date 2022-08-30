@@ -1,0 +1,123 @@
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  margin-left: 420px;
+  margin-top: -110px;
+  
+  
+}
+
+li{
+  float: left;
+  font-weight: 500;
+  padding: 15px;
+  
+  
+  
+}
+a:link{
+
+width: 100px;
+text-decoration: none;
+display: inline;
+text-align: center;
+padding: 0px;
+font-family: "TT Norms", Sans-serif;
+font-size: 10px;
+
+}
+img{
+  max-width: 100%;
+  max-height: 100%;
+}
+#me{
+  width: 230px;
+  height: 100px;
+  padding-top: 25px;
+  margin-left: 60px;
+}
+
+.bi{
+  margin-left: 29px;
+ 
+}
+
+.btn{
+  background: #BF2E48;
+  border: 1px solid #BF2E48;
+  font-size: 14px;
+  letter-spacing: .7px;
+  font-weight: 500;
+  border-radius: 18px;
+  padding: 0 20px;
+  width: fit-content;
+  height: 30px;
+}
+.no{
+  margin-left: 350px;
+}
+
+.aa{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  margin-top: -100px;
+}
+.qq{
+  float: left;
+  
+  padding: 12px;
+}
+.ss{
+  
+width: 100px;
+text-decoration: none;
+display: inline;
+text-align: center;
+padding: 0px;
+font-family: "TT Norms", Sans-serif;
+font-size: 12px;
+font-weight: 600;
+}
+#ww{
+  margin-top: 100px;
+}
+#qa{
+  width: 100%;
+  height: 620px;
+  box-sizing: border-box;
+  background-color: #ececec;
+  margin-top: 0px;
+}
+#jj{
+  font-family: "TT Norms", Sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    color: #202124;
+    padding: 50px;
+    margin-left: 185px;
+}
+.card-text{
+  text-align: center;
+  color: white;
+    font-family: "TT Norms", Sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.card-t{
+  text-align: center;
+  color:  white;
+  font-family: "TT Norms", Sans-serif;
+  font-size: 30px;
+
+}
+
+#ba{
+  margin-left: 330px;
+}
+.card-img-overlay{
+  padding-top: 250px;
+}
+
