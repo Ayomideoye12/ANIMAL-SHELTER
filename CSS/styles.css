@@ -375,3 +375,8 @@ font-family: "TT Norms", Sans-serif;
   margin-left: -775px;
   margin-top: -50px;
 }
+
+.xp{
+  display: inline;
+  padding: 20px;
+}
