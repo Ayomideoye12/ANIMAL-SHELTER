@@ -359,3 +359,19 @@ font-family: "TT Norms", Sans-serif;
   margin-top: -250px;
   margin-left: 60px;
 }
+
+.vg{
+  font-size: 9px;
+  font-family: "TT Norms", Sans-serif;
+}
+
+.dc{
+  font-size: 9px;
+  font-family: "TT Norms", Sans-serif;
+  padding-top: 10px;
+}
+
+#null{
+  margin-left: -775px;
+  margin-top: -50px;
+}
