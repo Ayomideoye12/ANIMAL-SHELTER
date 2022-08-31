@@ -147,7 +147,7 @@ font-weight: 600;
   font-family: "TT Norms", Sans-serif;
   margin-left: -710px;
   margin-top: 20px;
-  color: black;
+  color: white;
 }
 #vx{
   margin-left: 420px;
@@ -156,8 +156,23 @@ font-weight: 600;
 #cm{
   text-align: center;
   margin-left: -450px;
-  color: black;
+  color: white;
   margin-top: 20px;
   font-family: "TT Norms", Sans-serif;
+}
+#za{
+margin-left: 700px;
+margin-top: -120px;
+}
+#bxx{
+  margin-top: 20px;
+  margin-left: -80px;
+  text-align: center; 
+  color: white;
+  font-family: "TT Norms", Sans-serif;
+}
+#rd{
+  padding-top: 30px;
+  text-align: center;
 }
 
